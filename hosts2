@@ -1,4 +1,5 @@
 [all]
+192.168.1.157 ansible_user=daniel ansible_ssh_private_key_file=~/.ssh/id_rsa
 192.168.1.165 ansible_user=daniel ansible_ssh_private_key_file=~/.ssh/id_rsa
 192.168.1.214 ansible_user=daniel ansible_ssh_private_key_file=~/.ssh/id_rsa
 192.168.1.138 ansible_user=daniel ansible_ssh_private_key_file=/path/to/private/key
